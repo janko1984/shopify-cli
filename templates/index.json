@@ -42,7 +42,7 @@
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
+        "add_image_padding": true,
         "show_vendor": false
       }
     },
